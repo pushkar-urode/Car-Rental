@@ -1,6 +1,6 @@
 Project Live Link - https://car-rental-seven-self.vercel.app/
 
-BACKEND
+BACKEND (.ENV)
 
 MONGODB_URI=<your_mongodb_connection_string>
 
@@ -12,7 +12,7 @@ IMAGEKIT_PRIVATE_KEY=<your_imagekit_private_key>
 
 IMAGEKIT_URL_ENDPOINT=<your_imagekit_endpoint>
 
-FRONTEND
+FRONTEND (.ENV)
 
 VITE_CURRENCY=$
 VITE_BASE_URL=<your_backend_url>
