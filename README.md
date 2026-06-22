@@ -15,4 +15,5 @@ IMAGEKIT_URL_ENDPOINT=<your_imagekit_endpoint>
 FRONTEND (.ENV)
 
 VITE_CURRENCY=$
+
 VITE_BASE_URL=<your_backend_url>
