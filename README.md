@@ -2,7 +2,7 @@
 
 A full-stack car rental platform built with React, Node.js, and MongoDB.
 
-**[🌐 Live Project](https://car-rental-seven-self.vercel.app/)**
+Project Live Link - https://car-rental-seven-self.vercel.app
 
 ---
 
